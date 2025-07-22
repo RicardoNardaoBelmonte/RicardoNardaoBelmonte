@@ -12,17 +12,24 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a Computer Science student at **UNIJUÍ** (Brazil)
- 🔭 Currently working as an **intern** at the local government (Unijui City Hall)
- 🌱 Learning **JavaScript**, **React**, and **Node.js**
- 🧠 Interested in **automation**, **APIs**, and **AI projects**
- 💬 Pronouns: **he/him**
+  🎓 I'm a Computer Science student at **UNIJUÍ** (Brazil)
+
+  🔭 Currently working as an **intern** at the local government (Unijui City Hall)
+
+  🌱 Learning **JavaScript**, **React**, and **Node.js**
+
+  🧠 Interested in **automation**, **APIs**, and **AI projects**
+
+  💬 Pronouns: **he/him**
 
 ---
 
 ### 🛠️ Tech Stack
 
- **Languages:** Python, Java, JavaScript, SQL  
- **Frameworks:** Django, Flask-RESTful, React
- **Databases:** PostgreSQL, SQLite, MySQL  
- **Tools:** Git, GitHub, PyAutoGUI, Selenium, FastAPI...
+  **Languages:** Python, Java, JavaScript, SQL  
+ 
+  **Frameworks:** Django, Flask-RESTful, React
+ 
+  **Databases:** PostgreSQL, SQLite, MySQL  
+ 
+  **Tools:** Git, GitHub, PyAutoGUI, Selenium, FastAPI...
