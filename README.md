@@ -26,10 +26,10 @@
 
 ### 🛠️ Tech Stack
 
-  **Languages:** Python, Java, JavaScript, SQL  
+  **Languages:** Python, JavaScript, SQL  
  
   **Frameworks:** Django, Flask-RESTful, React
  
   **Databases:** PostgreSQL, SQLite, MySQL  
  
-  **Tools:** Git, GitHub, PyAutoGUI, Selenium, FastAPI...
+  **Tools:** Git, GitHub, PyAutoGUI, Selenium, FastAPI, Express...
