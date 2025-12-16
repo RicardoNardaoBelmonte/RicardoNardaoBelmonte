@@ -8,8 +8,6 @@
 
 <h2 align="center">I'm a curious Computer Science student</h2>
 
-<div align="center">
-  
 ## 👨‍💻 About Me
 
 🎓 Computer Science student at **UNIJUÍ** (Brazil)  
@@ -20,6 +18,8 @@
 
 ---
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
 ### **Languages**
