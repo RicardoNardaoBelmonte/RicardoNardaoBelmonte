@@ -18,10 +18,10 @@
 
 ---
 
-<div align="center">
-  
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 ### **Languages**
 <div align="center">
   <table>
