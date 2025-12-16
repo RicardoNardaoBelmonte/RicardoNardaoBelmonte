@@ -9,24 +9,22 @@
 <h2 align="center">I'm a curious Computer Science student</h2>
 
 <div align="center">
+  
+## 👨‍💻 About Me
 
-  <h2>👨‍💻 About Me</h2>
+🎓 Computer Science student at **UNIJUÍ** (Brazil)  
+💼 Intern at **Unijuí City Hall**, working with automation and web development  
+🚀 Currently learning and improving **TypeScript**, **React**, **Go**, and backend technologies  
+🧠 Interested in **automation**, **APIs**, **web development**, and **AI projects**  
+💬 Pronouns: **he/him**
 
-  <p>
-    🎓 Computer Science student at <strong>UNIJUÍ</strong> (Brazil)<br>
-    💼 Intern at <strong>Unijuí City Hall</strong>, working with automation and web development<br>
-    🚀 Currently learning and improving <strong>TypeScript</strong>, <strong>React</strong>, <strong>Go</strong>, and backend technologies<br>
-    🧠 Interested in <strong>automation</strong>, <strong>APIs</strong>, <strong>web development</strong>, and <strong>AI projects</strong><br>
-    💬 Pronouns: <strong>he/him</strong>
-  </p>
+---
 
-  <hr>
+## 🛠️ Tech Stack
 
-  <h2>🛠️ Tech Stack</h2>
-
-  <h3>Languages</h3>
-
-  <table align="center">
+### **Languages**
+<div align="center">
+  <table>
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
@@ -50,12 +48,13 @@
       </td>
     </tr>
   </table>
+</div>
 
-  <br>
+---
 
-  <h3>Frontend</h3>
-
-  <table align="center">
+### **Frontend**
+<div align="center">
+  <table>
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>
@@ -79,12 +78,13 @@
       </td>
     </tr>
   </table>
+</div>
 
-  <br>
+---
 
-  <h3>Backend</h3>
-
-  <table align="center">
+### **Backend**
+<div align="center">
+  <table>
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>
@@ -100,5 +100,4 @@
       </td>
     </tr>
   </table>
-
 </div>
